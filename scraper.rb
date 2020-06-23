@@ -3,7 +3,7 @@ Bundler.require
 
 AUTHORITIES = {
   newcastle: {
-    url: "https://ncc-test-web.t1cloud.com/T1PRDefault/WebAppServices/ATDIS/atdis/1.0/"
+    url: "https://ncc-test-web.t1cloud.com/T1PRDefault/WebAppServices/ATDIS/atdis/1.0/applications.json"
   }
 }
 
