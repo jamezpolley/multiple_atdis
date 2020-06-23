@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/planningalerts-scrapers/atdisplanningalertsfeed.git
+  remote: git://github.com/jamezpolley/atdisplanningalertsfeed.git
   revision: a7a7ce74969102dfae04f9c706eddf01d423fb05
   specs:
     atdisplanningalertsfeed (0.1.0)
