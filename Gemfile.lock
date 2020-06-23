@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/jamezpolley/atdisplanningalertsfeed.git
-  revision: 9a4886bb520ad8c536b5d083d0c72d562804e6f2
+  revision: 9c5d3aa7f73a5938ac88540ed78cfe112cf2b532
   specs:
     atdisplanningalertsfeed (0.1.0)
       atdis (>= 0.4.1)
@@ -82,6 +82,9 @@ DEPENDENCIES
   timecop
   vcr
   webmock
+
+RUBY VERSION
+   ruby 2.3.4p301
 
 BUNDLED WITH
    1.16.2
