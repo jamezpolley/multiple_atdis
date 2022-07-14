@@ -18,9 +18,6 @@ AUTHORITIES = {
   kiama: {
     url: "https://da.kiama.nsw.gov.au/atdis/1.0"
   },
-  upper_hunter: {
-    url: "http://onlineservices.upperhunter.nsw.gov.au/atdis/1.0/"
-  },
   walgett: {
     url: "http://myhorizon.walgett.nsw.gov.au/Horizon/@@horizondap@@/atdis/1.0/"
   }    
