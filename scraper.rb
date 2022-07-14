@@ -13,7 +13,7 @@ AUTHORITIES = {
     url: "http://masterview.bathurst.nsw.gov.au/atdis/1.0/"
   },
   bega_valley: {
-    url: "http://datracker.begavalley.nsw.gov.au/ATDIS/1.0/"
+    url: "https://datracker.begavalley.nsw.gov.au/ATDIS/1.0/"
   },
   kiama: {
     url: "https://da.kiama.nsw.gov.au/atdis/1.0"
