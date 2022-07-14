@@ -9,9 +9,6 @@ AUTHORITIES = {
   armidale: {
     url: "https://epathway.newengland.nsw.gov.au/ePathway/Production/WebServiceGateway/atdis/1.0"
   },
-  ballina: {
-    url: "http://da.ballina.nsw.gov.au/atdis/1.0"
-  },
   bathurst: {
     url: "http://masterview.bathurst.nsw.gov.au/atdis/1.0/"
   },
