@@ -15,9 +15,6 @@ AUTHORITIES = {
   bega_valley: {
     url: "http://datracker.begavalley.nsw.gov.au/ATDIS/1.0/"
   },
-  dubbo: {
-    url: "https://planning.dubbo.nsw.gov.au/atdis/1.0/"
-  },
   kiama: {
     url: "https://da.kiama.nsw.gov.au/atdis/1.0"
   },
