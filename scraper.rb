@@ -6,8 +6,8 @@ $LOAD_PATH << "./lib"
 require "atdisplanningalertsfeed"
 
 AUTHORITIES = {
-  bega_valley: {
-    url: "http://datracker.begavalley.nsw.gov.au/ATDIS/1.0/"
+  armidale: {
+    url: "https://epathway.newengland.nsw.gov.au/ePathway/Production/WebServiceGateway/atdis/1.0"
   },
   ballina: {
     url: "http://da.ballina.nsw.gov.au/atdis/1.0"
@@ -15,24 +15,24 @@ AUTHORITIES = {
   bathurst: {
     url: "http://masterview.bathurst.nsw.gov.au/atdis/1.0/"
   },
+  bega_valley: {
+    url: "http://datracker.begavalley.nsw.gov.au/ATDIS/1.0/"
+  },
   dubbo: {
     url: "https://planning.dubbo.nsw.gov.au/atdis/1.0/"
   },
   kiama: {
     url: "https://da.kiama.nsw.gov.au/atdis/1.0"
   },
-  upper_hunter: {
-    url: "http://onlineservices.upperhunter.nsw.gov.au/atdis/1.0/"
-  },
-  armidale: {
-    url: "https://epathway.newengland.nsw.gov.au/ePathway/Production/WebServiceGateway/atdis/1.0"
-  },
   muswellbrook: {
     url: "https://datracker.muswellbrook.nsw.gov.au/atdis/1.0"
   },
+  upper_hunter: {
+    url: "http://onlineservices.upperhunter.nsw.gov.au/atdis/1.0/"
+  },
   walgett: {
     url: "http://myhorizon.walgett.nsw.gov.au/Horizon/@@horizondap@@/atdis/1.0/"
-  },
+  }    
 }.freeze
 
 exceptions = []
